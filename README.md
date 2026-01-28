@@ -1,7 +1,5 @@
  homeassistant-navigation-dashboard
 
-https://raw.githubusercontent.com/hanspettervalle-prog/homeassistant-navigation-dashboard/main/dashboard.yaml
-
 A clean and modular navigation dashboard template for Home Assistant.
 Designed as a central hub for dashboards, media, add-ons and web shortcuts.
 This template is ideal for wall-mounted tablets, car-mounted tablets, or users who want a structured navigation menu inside Home Assistant.
@@ -19,7 +17,7 @@ This template is ideal for wall-mounted tablets, car-mounted tablets, or users w
 
 📥 How to Install
 1. Download the dashboard file
-Download the file:
+Download the file: https://raw.githubusercontent.com/hanspettervalle-prog/homeassistant-navigation-dashboard/main/dashboard.yaml
 
 (You can right-click → Save As)
 2. Import into Home Assistant
