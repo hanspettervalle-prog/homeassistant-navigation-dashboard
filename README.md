@@ -24,8 +24,7 @@ This template is ideal for wall-mounted tablets, car-mounted tablets, or users w
 • 	Fully English and universal — no personal URLs included
 
 📥 How to Install
-1. Download the dashboard file
-Download the file:
+1. Download the dashboard file:
 
 https://raw.githubusercontent.com/hanspettervalle-prog/homeassistant-navigation-dashboard/main/dashboard.yaml
 
