@@ -28,8 +28,9 @@ Download the file: https://raw.githubusercontent.com/hanspettervalle-prog/homeas
 5. 	Click ⋮ → Edit Dashboard
 6. 	Click Raw configuration editor
 7. 	Delete everything inside
-8. 	Paste the content of 
+8. 	Paste the content of `dashboard.yaml` 
 9. 	Save
+
 Your navigation dashboard is now ready.
 
 🧭 How to Add Your Own Buttons
