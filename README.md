@@ -1,4 +1,7 @@
 # homeassistant-navigation-dashboard
+
+https://github.com/hanspettervalle-prog/homeassistant-navigation-dashboard/blob/main/dashboard.yaml
+
 A clean and modular navigation dashboard template for Home Assistant.
 Designed as a central hub for dashboards, media, add-ons and web shortcuts.
 This template is ideal for wall-mounted tablets, car-mounted tablets, or users who want a structured navigation menu inside Home Assistant.
