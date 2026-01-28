@@ -1,0 +1,135 @@
+views:
+  - title: Dashboards
+    type: sections
+    max_columns: 4
+    icon: ''
+    sections:
+      - type: grid
+        cards:
+          - type: heading
+            heading_style: title
+          - type: custom:button-card
+            name: Example Dashboard
+            icon: mdi:open-in-app
+            tap_action:
+              action: navigate
+              navigation_path: /lovelace/example
+            styles:
+              card:
+                - background-color: '#DDEBFF'
+                - height: 80px
+                - border-radius: 8px
+                - justify-content: center
+                - align-items: center
+              name:
+                - color: '#000000'
+                - font-size: 14px
+              icon:
+                - color: '#000000'
+    cards: []
+    header:
+      card:
+        type: markdown
+        text_only: true
+        content: '# Dashboards'
+  - type: sections
+    max_columns: 4
+    title: Addons
+    path: addons
+    icon: ''
+    sections:
+      - type: grid
+        cards:
+          - type: heading
+            heading_style: title
+          - type: custom:button-card
+            name: Example Add-on
+            icon: mdi:application
+            tap_action:
+              action: navigate
+              navigation_path: /hassio/addon/example/info
+            styles:
+              card:
+                - background-color: '#E8FBD2'
+                - height: 80px
+                - border-radius: 8px
+                - justify-content: center
+                - align-items: center
+              name:
+                - color: '#000000'
+                - font-size: 14px
+              icon:
+                - color: '#000000'
+    header:
+      card:
+        type: markdown
+        text_only: true
+        content: |
+          # Addons
+  - type: sections
+    max_columns: 4
+    title: Media
+    path: media
+    icon: ''
+    sections:
+      - type: grid
+        cards:
+          - type: heading
+            heading_style: title
+          - type: custom:button-card
+            name: Example Media App
+            icon: mdi:play-circle
+            tap_action:
+              action: url
+              url_path: https://example.com/media
+            styles:
+              card:
+                - background-color: '#FFE8A3'
+                - height: 80px
+                - border-radius: 8px
+                - justify-content: center
+                - align-items: center
+              name:
+                - color: '#000000'
+                - font-size: 14px
+              icon:
+                - color: '#000000'
+    cards: []
+    header:
+      card:
+        type: markdown
+        text_only: true
+        content: '# Media'
+  - type: sections
+    max_columns: 4
+    title: Web
+    path: web
+    sections:
+      - type: grid
+        cards:
+          - type: heading
+            heading_style: title
+          - type: custom:button-card
+            name: Example Website
+            icon: mdi:earth
+            tap_action:
+              action: url
+              url_path: https://example.com
+            styles:
+              card:
+                - background-color: '#FFD6E8'
+                - height: 80px
+                - border-radius: 8px
+                - justify-content: center
+                - align-items: center
+              name:
+                - color: '#000000'
+                - font-size: 14px
+              icon:
+                - color: '#000000'
+    header:
+      card:
+        type: markdown
+        text_only: true
+        content: |
+          # Web
