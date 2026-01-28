@@ -6,18 +6,27 @@ This template is ideal for wall-mounted tablets, car-mounted tablets, or users w
 
 🚀 Features
 • 	Four organized views:
+
 • 	Dashboards
+
 • 	Media
+
 • 	Add-ons
+
 • 	Web
+
 • 	Example button in each view showing how to build your own cards
+
 • 	Uses  for clean and modern UI
+
 • 	Easy to expand with your own links, dashboards, apps or services
+
 • 	Fully English and universal — no personal URLs included
 
 📥 How to Install
 1. Download the dashboard file
-Download the file: https://raw.githubusercontent.com/hanspettervalle-prog/homeassistant-navigation-dashboard/main/dashboard.yaml
+Download the file:
+https://raw.githubusercontent.com/hanspettervalle-prog/homeassistant-navigation-dashboard/main/dashboard.yaml
 
 (You can right-click → Save As)
 2. Import into Home Assistant
