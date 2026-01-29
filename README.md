@@ -2,7 +2,7 @@
 
 A clean and modular navigation dashboard template for Home Assistant.
 Designed as a central hub for dashboards, media, add-ons and web shortcuts.
-This template is ideal for wall-mounted tablets, car-mounted tablets, or users who want a structured navigation menu inside Home Assistant.
+This template is ideal for wall-mounted tablets, or users who want a structured navigation menu inside Home Assistant.
 
 🚀 Features
 • 	Four organized views:
@@ -21,7 +21,7 @@ This template is ideal for wall-mounted tablets, car-mounted tablets, or users w
 
 • 	Easy to expand with your own links, dashboards, apps or services
 
-• 	Fully English and universal — no personal URLs included
+• 	Fully English and universal 
 
 📥 How to Install
 1. Download the dashboard file:
@@ -64,14 +64,9 @@ All example cards include:
 • 	consistent height
 You can freely change colors, icons and layout.
 
-📂 File Structure
-
-(You can add an  folder later if you want.)
 
 📄 Requirements
 • 	Home Assistant
 • 	 installed via HACS
 (HACS → Frontend → Search for “button-card”)
 
-🧩 License
-You may add a license here if you want (MIT is common for templates).
